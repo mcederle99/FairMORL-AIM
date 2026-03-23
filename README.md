@@ -1,7 +1,7 @@
 # A Fairness-Oriented Multi-Objective Reinforcement Learning approach for Autonomous Intersection Management
 ## Matteo Cederle, Marco Fabris and Gian Antonio Susto
 #### Department of Information Engineering, University of Padova, 35131 Padua via Gradenigo 6/B, Italy
-#### Paper submitted to [J3C 2025](https://j3c.org/)
+#### Paper presented at [J3C 2025](https://j3c.org/)
 
 ![](amco.png)
 
@@ -26,8 +26,17 @@ This study introduces a novel multi-objective reinforcement learning (MORL) appr
 6. To plot the results, use the file plots.py
 
 ## Cite this work
-If you find our work interesting for your research, please cite the [paper](). In BibTeX format:
+If you find our work interesting for your research, please cite the [paper](https://arxiv.org/pdf/2507.09311). In BibTeX format:
 
 ```bibtex
-
+@article{cederle2025fairness,
+  title={A Fairness-Oriented Multi-Objective Reinforcement Learning approach for Autonomous Intersection Management},
+  author={Cederle, Matteo and Fabris, Marco and Susto, Gian Antonio},
+  journal={IFAC-PapersOnLine},
+  volume={59},
+  number={26},
+  pages={157--162},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
